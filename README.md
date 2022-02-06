@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olatoye-Daramola
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Data Analysis, Database Management
-- 🌱 I’m currently learning JAVA, Python, SQL
+- 👀 I’m interested in Software Development, Machine Learning, Artificial Intelligence, Data Analysis, Database Management
+- 🌱 I’m currently learning JAVA(SpringBoot), Python(Django), SQL, R, JavaScript(React JS)
 - 💞️ I’m looking to collaborate on Smart Agriculture projects
 - 📫 How to reach me daramolatoye@gmail.com
 
